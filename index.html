@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="css/reset.min.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="icon/iconfont.css">
+
 </head>
 <body>
 <!--下面是表头(已搞定)-->
@@ -46,7 +47,7 @@
     </div>
 </div>
 
-<!--下面是导航 代号1  js下拉添加元素和相应的css-->
+<!--下面是导航 代号1-->
 <div class="site-header">
     <div class="container">
         <div class="header-logo">
@@ -84,7 +85,7 @@
                 <a href="javascript:;">
                     <li>社区</li>
                 </a>
-                <div class="nav-box"></div>
+                <div class="nav-box"><div class="nav-after"></div></div>
             </ul>
         </div>
         <div class="header-search">
@@ -207,7 +208,7 @@
     -->
 </div>
 
-<!--下面是左侧导航和轮播图和倒计时那一块 代号2   第一大段 第三段左右按钮样式和地下抢购小轮播-->
+<!--下面是左侧导航和小轮播图那一块 代号2   第一大段 第三段左右按钮样式和小轮播-->
 <div class="home-container">
     <div class="home-hero">
         <!--左侧导航和轮播图-->
@@ -303,14 +304,14 @@
         <div class="box-bd">
             <div class="countdown">
                     <div class="time-title">10:00 场</div>
-                    <img src="//i1.mifile.cn/f/i/2018/mihome/flashpurchase.png">
-                    <div class="sub">距离开始还有</div>
-                    <div class="falshTime">
-                        <div class="box">01</div>
+                  <img src="img/resource/lighting.png"/>
+                <div class="sub">距离开始还有</div>
+                    <div class="flashTime">
+                        <div class="box">00</div>
                         <div class="dosh">:</div>
-                        <div class="box">12</div>
+                        <div class="box">00</div>
                         <div class="dosh">:</div>
-                        <div class="box">48</div>
+                        <div class="box">00</div>
                     </div>
             </div>
             <div class="wrapper">
@@ -721,7 +722,7 @@
                 <p>购物车</p></a></li>
         </ul>
     </div>
-    <a class="bar-totop" href="index.html#site-topbar">
+    <a class="bar-totop" id="barTotop" href="#site-topbar">
         <i class="iconfont">&#xe714</i>
         <p class="bar-text">回顶部</p>
     </a>
@@ -825,5 +826,7 @@
     <div class="slogan">探索黑科技，小米为发烧而生!</div>
 </div>
 
+
+<script src="js/plugin.js"></script>
 </body>
 </html>

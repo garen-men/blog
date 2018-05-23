@@ -18,7 +18,6 @@ h2.title {
 }
 
 .site-topbar {
-    height: 40px;
     background-color: #333333;
 }
 
@@ -26,7 +25,8 @@ h2.title {
     width: 1226px;
     margin: 0 auto;
     font-size: 12px;
-
+    height: 40px;
+    background-color: #333333;
 }
 
 .site-topbar > .container > div {
@@ -116,7 +116,7 @@ h2.title {
 
 .site-header > .container > .header-logo {
     float: left;
-    width: 234px;
+    width: 55px;
     line-height: 100px;
 }
 
@@ -130,7 +130,7 @@ h2.title {
 .site-header > .container > .header-nav {
     float: left;
     font-size: 16px;
-
+    padding-left: 179px;
 }
 
 .site-header > .container > .header-nav ul {
@@ -143,12 +143,12 @@ h2.title {
     padding: 0 10px;
 }
 
-.site-header > .container > .header-nav div {
+.site-header > .container > .header-nav .nav-box {
     position: absolute;
     z-index: 99;
     top: 140px;
     left: 0;
-    height: 0px;
+    height: 0;
     width: 100%;
     overflow: hidden;
     box-shadow: -1px 1px 3px #888250;
@@ -158,11 +158,66 @@ h2.title {
     background-color: #ffffff;
 }
 
+.site-header > .container > .header-nav .nav-after {
+    width: 1226px;
+    height: 230px;
+    margin: 0 auto;
+}
+
+.site-header > .container > .header-nav .nav-after li {
+    float: left;
+    padding: 0 12px;
+    width: 180px;
+
+}
+
+.site-header > .container > .header-nav .nav-after .mark {
+    display: block;
+    height: 20px;
+    width: 64px;
+    margin: 0 auto 16px auto;
+    border: 1px solid #ff6700;
+    color: #ff6700;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.site-header > .container > .header-nav .nav-after .detail > a {
+    display: block;
+    width: 160px;
+    height: 145px;
+}
+
+.site-header > .container > .header-nav .nav-after .detail > a img {
+    display: block;
+    width: 100%;
+}
+
+.site-header > .container > .header-nav .nav-after .detail > a span {
+    display: block;
+    height: 20px;
+    line-height: 20px;
+    font-size: 12px;
+    margin-top: 18px;
+}
+
+.site-header > .container > .header-nav .nav-after .detail .price {
+    display: block;
+    height: 20px;
+    line-height: 20px;
+    font-size: 14px;
+    color: #ff6700;
+}
+
 .site-header > .container > .header-nav a:hover {
     color: #E01D20;
 }
 
 .site-header > .container > .header-nav a.true:hover ~ div {
+    height: 230px;
+}
+
+.site-header > .container > .header-nav > .nav-list > div:hover {
     height: 230px;
 }
 
@@ -362,8 +417,46 @@ h2.title {
     border-top: 1px solid #e53935;
     margin-right: 14px;
     background: #f1eded;
+    text-align: center;
 }
-
+.home-container > .flashPurchase .box-bd .countdown .time-title{
+    height:31px;
+    font-size: 21px;
+    color: #ef3a3b;
+    padding-top: 15px;
+}
+.home-container > .flashPurchase .box-bd .countdown img{
+    height:53px;
+    margin: 25px 0;
+}
+.home-container > .flashPurchase .box-bd .countdown .sub{
+    height: 22px;
+    color: rgba(0,0,0,0.54);
+    font-size: 15px;
+}
+.home-container > .flashPurchase .box-bd .countdown .flashTime{
+    height: 46px;
+    margin: 28px auto 0 auto;
+    text-align: center;
+}
+.home-container > .flashPurchase .box-bd .flashTime div{
+    display: inline-block;
+}
+.home-container > .flashPurchase .box-bd .flashTime .box{
+    width: 46px;
+    height: 46px;
+    line-height: 46px;
+    background: #605751;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+.home-container > .flashPurchase .box-bd .flashTime .dosh{
+width: 10px;
+    height: 46px;
+    line-height: 46px;
+    color: #605751;
+    font-size: 28px;
+}
 .home-container > .flashPurchase .box-bd .wrapper {
     float: left;
     position: relative;
@@ -454,7 +547,7 @@ h2.title {
 }
 
 .home-right-bar > .bar-totop {
-    display: block;
+    display: none;
     background-color: #FFFFFF;
     width: 82px;
     height: 90px;

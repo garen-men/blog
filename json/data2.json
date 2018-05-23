@@ -1,0 +1,226 @@
+[
+  [
+    {
+      "mark":"新品",
+      "src":"img/resource/container2/mix2s1.png",
+      "name":"小米MIX 2S",
+      "price":"3299元起"
+    },
+    {
+      "mark":"热卖",
+      "src":"img/resource/container2/mix22.png",
+      "name":"小米MIX 2",
+      "price":"2599元起"
+    },
+    {
+      "mark":"新品",
+      "src":"img/resource/container2/3202-3.png",
+      "name":"小米6",
+      "price":"1599元起"
+    },
+    {
+      "mark":"热卖",
+      "src":"img/resource/container2/note2-4.png",
+      "name":"小米NOTE 3",
+      "price":"1799元起"
+    },
+    {
+      "mark":"热卖",
+      "src":"img/resource/container2/max2-5.png",
+      "name":"小米MAX 2",
+      "price":"1399元起"
+    },
+    {
+      "mark":"热卖",
+      "src":"img/resource/container2/5x-6.png",
+      "name":"小米5X",
+      "price":"1499元"
+    }],
+  [
+    {
+      "mark":"热卖",
+      "src":"img/resource/container2/4-1.png",
+      "name":"小米游戏本",
+      "price":"5999元起"
+    },
+    {
+      "mark":"热卖",
+      "src":"img/resource/container2/4-2.png",
+      "name":"小米笔记本 Pro",
+      "price":"5599元起"
+    },
+    {
+      "mark":"热卖",
+      "src":"img/resource/container2/4-3.png",
+      "name":"小米笔记本 Air系列",
+      "price":"3599元"
+    }],
+  [
+    {
+      "mark":"新品",
+      "src":"img/resource/container2/mix2s1.png",
+      "name":"小米MIX 2S",
+      "price":"3299元起"
+    },
+    {
+      "mark":"热卖",
+      "src":"img/resource/container2/mix22.png",
+      "name":"小米MIX 2",
+      "price":"2599元起"
+    },
+    {
+      "mark":"新品",
+      "src":"img/resource/container2/3202-3.png",
+      "name":"小米6",
+      "price":"1599元起"
+    },
+    {
+      "mark":"热卖",
+      "src":"img/resource/container2/note2-4.png",
+      "name":"小米NOTE 3",
+      "price":"1799元起"
+    },
+    {
+      "mark":"热卖",
+      "src":"img/resource/container2/max2-5.png",
+      "name":"小米MAX 2",
+      "price":"1399元起"
+    },
+    {
+      "mark":"热卖",
+      "src":"img/resource/container2/5x-6.png",
+      "name":"小米5X",
+      "price":"1499元"
+    }],
+  [
+    {
+      "mark":"热卖",
+      "src":"img/resource/container2/4-1.png",
+      "name":"小米游戏本",
+      "price":"5999元起"
+    },
+    {
+      "mark":"热卖",
+      "src":"img/resource/container2/4-2.png",
+      "name":"小米笔记本 Pro",
+      "price":"5599元起"
+    },
+    {
+      "mark":"热卖",
+      "src":"img/resource/container2/4-3.png",
+      "name":"小米笔记本 Air系列",
+      "price":"3599元"
+    }],
+  [
+  {
+    "mark":"新品",
+    "src":"img/resource/container2/mix2s1.png",
+    "name":"小米MIX 2S",
+    "price":"3299元起"
+  },
+  {
+    "mark":"热卖",
+    "src":"img/resource/container2/mix22.png",
+    "name":"小米MIX 2",
+    "price":"2599元起"
+  },
+  {
+    "mark":"新品",
+    "src":"img/resource/container2/3202-3.png",
+    "name":"小米6",
+    "price":"1599元起"
+  },
+  {
+    "mark":"热卖",
+    "src":"img/resource/container2/note2-4.png",
+    "name":"小米NOTE 3",
+    "price":"1799元起"
+  },
+  {
+    "mark":"热卖",
+    "src":"img/resource/container2/max2-5.png",
+    "name":"小米MAX 2",
+    "price":"1399元起"
+  },
+  {
+    "mark":"热卖",
+    "src":"img/resource/container2/5x-6.png",
+    "name":"小米5X",
+    "price":"1499元"
+  }],
+  [
+    {
+      "mark":"热卖",
+      "src":"img/resource/container2/4-1.png",
+      "name":"小米游戏本",
+      "price":"5999元起"
+    },
+    {
+      "mark":"热卖",
+      "src":"img/resource/container2/4-2.png",
+      "name":"小米笔记本 Pro",
+      "price":"5599元起"
+    },
+    {
+      "mark":"热卖",
+      "src":"img/resource/container2/4-3.png",
+      "name":"小米笔记本 Air系列",
+      "price":"3599元"
+    }],
+  [
+  {
+    "mark":"新品",
+    "src":"img/resource/container2/mix2s1.png",
+    "name":"小米MIX 2S",
+    "price":"3299元起"
+  },
+  {
+    "mark":"热卖",
+    "src":"img/resource/container2/mix22.png",
+    "name":"小米MIX 2",
+    "price":"2599元起"
+  },
+  {
+    "mark":"新品",
+    "src":"img/resource/container2/3202-3.png",
+    "name":"小米6",
+    "price":"1599元起"
+  },
+  {
+    "mark":"热卖",
+    "src":"img/resource/container2/note2-4.png",
+    "name":"小米NOTE 3",
+    "price":"1799元起"
+  },
+  {
+    "mark":"热卖",
+    "src":"img/resource/container2/max2-5.png",
+    "name":"小米MAX 2",
+    "price":"1399元起"
+  },
+  {
+    "mark":"热卖",
+    "src":"img/resource/container2/5x-6.png",
+    "name":"小米5X",
+    "price":"1499元"
+  }],
+  [
+    {
+      "mark":"热卖",
+      "src":"img/resource/container2/4-1.png",
+      "name":"小米游戏本",
+      "price":"5999元起"
+    },
+    {
+      "mark":"热卖",
+      "src":"img/resource/container2/4-2.png",
+      "name":"小米笔记本 Pro",
+      "price":"5599元起"
+    },
+    {
+      "mark":"热卖",
+      "src":"img/resource/container2/4-3.png",
+      "name":"小米笔记本 Air系列",
+      "price":"3599元"
+    }]
+]
