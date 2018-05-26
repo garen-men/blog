@@ -14,7 +14,8 @@ let queryData = function () {
         };
         xhr.send(null);
     })
-};
+},
+    promise=queryData();
 
 /*开胃菜:高度隐现回到顶部按钮*/
 (function () {
@@ -37,7 +38,7 @@ let queryData = function () {
         containerList = document.querySelectorAll(".site-header>.container>.header-nav>ul>.true"),
         containerBox = document.querySelector(".site-header>.container>.header-nav");
     containerList = [...containerList];
-    queryData().then(function (dataList) {
+    promise.then(function (dataList) {
         containerList.forEach((curA, index) => {
             let curdata = null;
             curA.onmouseenter = function () {
@@ -62,7 +63,7 @@ let queryData = function () {
     let leftHour = document.querySelectorAll('.flashTime>.box')[0],
         leftMin = document.querySelectorAll('.flashTime>.box')[1],
         leftSen = document.querySelectorAll('.flashTime>.box')[2];
-setTimeout(function(){
+    promise.then(function(){
     let curDate = serverTime,
         curYear = curDate.getFullYear(),
         curMon = curDate.getMonth(),
@@ -87,7 +88,7 @@ setTimeout(function(){
             clearInterval(trickMonkey);
         }
     }, 1000);
-},200)
+})
 })();
 
 /*底下彩虹小轮播*/
