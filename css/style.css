@@ -102,7 +102,7 @@ h2.title {
     padding: 0 10px;
 }
 
-/*下面是导航栏*/
+/*下面是导航栏1*/
 .site-header {
     background-color: #ffffff;
 
@@ -162,13 +162,13 @@ h2.title {
     width: 1226px;
     height: 230px;
     margin: 0 auto;
+    overflow-x: hidden;
 }
 
 .site-header > .container > .header-nav .nav-after li {
     float: left;
     padding: 0 12px;
     width: 180px;
-
 }
 
 .site-header > .container > .header-nav .nav-after .mark {
@@ -186,6 +186,21 @@ h2.title {
     display: block;
     width: 160px;
     height: 145px;
+    position: relative;
+}
+
+.site-header > .container > .header-nav .nav-after .detail > a:before {
+    position: absolute;
+    left: -13px;
+    width: 1px;
+    height: 100px;
+    content: "";
+    background-color: #e0e0e0;
+}
+
+.site-header > .container > .header-nav .nav-after .detail > a:last-child:before {
+    width: 0;
+    height: 0;
 }
 
 .site-header > .container > .header-nav .nav-after .detail > a img {
@@ -341,10 +356,21 @@ h2.title {
     overflow: hidden;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
 .home-container > .home-hero > .home-sub {
     height: 170px;
     margin-top: 14px;
-
 }
 
 .home-container > .home-hero > .home-sub .span4 {
@@ -395,7 +421,30 @@ h2.title {
 }
 
 .home-container > .flashPurchase .box-hd .more a {
+    float: left;
+    width: 24px;
+    height: 16px;
+    padding: 3px 5px;
+    border: 1px solid #e0e0e0;
+    font-size: 16px;
+    line-height: 16px;
+    margin-left: -1px;
+    font-weight: bolder;
+    text-align: center;
+    color: #999999;
+}
 
+.home-container > .flashPurchase .box-hd .more a:hover {
+    color: #ff6700;
+}
+
+.home-container > .flashPurchase .box-hd .more > .control {
+    cursor: default;
+    color: #e0e0e0;
+}
+
+.home-container > .flashPurchase .box-hd .more > .control:hover {
+    color: #e0e0e0;
 }
 
 .home-container > .flashPurchase .box-hd .more a:hover {
@@ -419,30 +468,36 @@ h2.title {
     background: #f1eded;
     text-align: center;
 }
-.home-container > .flashPurchase .box-bd .countdown .time-title{
-    height:31px;
+
+.home-container > .flashPurchase .box-bd .countdown .time-title {
+    height: 31px;
     font-size: 21px;
     color: #ef3a3b;
     padding-top: 15px;
 }
-.home-container > .flashPurchase .box-bd .countdown img{
-    height:53px;
+
+.home-container > .flashPurchase .box-bd .countdown img {
+    height: 53px;
     margin: 25px 0;
 }
-.home-container > .flashPurchase .box-bd .countdown .sub{
+
+.home-container > .flashPurchase .box-bd .countdown .sub {
     height: 22px;
-    color: rgba(0,0,0,0.54);
+    color: rgba(0, 0, 0, 0.54);
     font-size: 15px;
 }
-.home-container > .flashPurchase .box-bd .countdown .flashTime{
+
+.home-container > .flashPurchase .box-bd .countdown .flashTime {
     height: 46px;
     margin: 28px auto 0 auto;
     text-align: center;
 }
-.home-container > .flashPurchase .box-bd .flashTime div{
+
+.home-container > .flashPurchase .box-bd .flashTime div {
     display: inline-block;
 }
-.home-container > .flashPurchase .box-bd .flashTime .box{
+
+.home-container > .flashPurchase .box-bd .flashTime .box {
     width: 46px;
     height: 46px;
     line-height: 46px;
@@ -450,26 +505,30 @@ h2.title {
     font-size: 24px;
     color: #FFFFFF;
 }
-.home-container > .flashPurchase .box-bd .flashTime .dosh{
-width: 10px;
+
+.home-container > .flashPurchase .box-bd .flashTime .dosh {
+    width: 10px;
     height: 46px;
     line-height: 46px;
     color: #605751;
     font-size: 28px;
 }
+
 .home-container > .flashPurchase .box-bd .wrapper {
     float: left;
     position: relative;
     box-sizing: border-box;
     height: 340px;
     width: 978px;
-
+    overflow: hidden;
 }
 
 .home-container > .flashPurchase .wrapper .purchase {
     position: absolute;
+    display: block;
     width: 1240px;
     height: 340px;
+    transition: 0.5s ease;
 }
 
 .home-container > .flashPurchase .wrapper .purchase li {
@@ -482,6 +541,26 @@ width: 10px;
     padding-top: 39px;
     border-top: 1px solid;
     margin-right: 14px;
+}
+
+.home-container > .flashPurchase .wrapper .purchase li:nth-child(1) {
+    border-top-color: #ffac13;
+}
+
+.home-container > .flashPurchase .wrapper .purchase li:nth-child(2) {
+    border-top-color: #83c44e;
+}
+
+.home-container > .flashPurchase .wrapper .purchase li:nth-child(3) {
+    border-top-color: #2196f3;
+}
+
+.home-container > .flashPurchase .wrapper .purchase li:nth-child(4) {
+    border-top-color: #e53935;
+}
+
+.home-container > .flashPurchase .wrapper .purchase li:nth-child(5) {
+    border-top-color: #00c0a5;
 }
 
 .home-container > .flashPurchase .purchase li > a > div {
@@ -497,7 +576,35 @@ width: 10px;
     display: block;
     width: 160px;
     height: 160px;
-    margin: 0 37px 28px 28px;
+    margin: 0 auto 28px auto;
+}
+
+.home-container > .flashPurchase .wrapper .purchase li h3 {
+    display: block;
+    height: 24px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.home-container > .flashPurchase .wrapper .purchase li .desc {
+    display: block;
+    height: 30px;
+    text-align: center;
+    color: #b0b0b0;
+    font-size: 12px;
+}
+
+.home-container > .flashPurchase .wrapper .purchase li .price {
+    display: block;
+    height: 30px;
+    text-align: center;
+    color: #b0b0b0;
+    font-size: 14px;
+}
+
+.home-container > .flashPurchase .wrapper .purchase li .price span {
+    color: #ff6709;
 }
 
 .home-container > .homeBanner {
