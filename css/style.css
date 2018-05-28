@@ -339,7 +339,6 @@ h2.title {
 /*这里我要写内容2*/
 .home-container {
     height: 1272px;
-    overflow: hidden;
     margin: 0 auto;
     width: 1226px;
 }
@@ -353,20 +352,159 @@ h2.title {
 .home-container > .home-hero > .home-slider {
     position: relative;
     height: 460px;
-    overflow: hidden;
 }
 
+/*这块写轮播图*/
 
+.home-container > .home-hero > .home-slider .wrapper > .slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1226px;
+    height: 460px;
+transition: opacity .7s;
+    opacity: 0;
+}
 
+.home-container > .home-hero > .home-slider .wrapper > .slide img {
+    width: 100%;
+    cursor: pointer;
+}
 
+.home-container > .home-hero > .home-slider > .container > .focus {
+    position: absolute;
+    top: 427px;
+    right: 30px;
+    width: 88px;
+    height: 20px;
+    z-index: 49;
 
+}
 
+.home-container > .home-hero > .home-slider > .container > .focus li {
+    float: left;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    margin-right: 12px;
+    transition: all .2s;
+}
 
+.home-container > .home-hero > .home-slider > .container > .focus li:hover {
+    border: 2px solid rgba(0, 0, 0, 0.4);
+    background: rgba(255, 255, 255, 0.4);
+}
 
+.home-container > .home-hero > .home-slider > .container > .focus .active {
+    border: 2px solid rgba(0, 0, 0, 0.4);
+    background: rgba(255, 255, 255, 0.4);
+}
 
+.home-container > .home-hero > .home-slider > .container > .iconfont {
+    position: absolute;
+    z-index: 49;
+    width: 41px;
+    height: 69px;
+    line-height: 69px;
+    text-align: center;
+    top: 195px;
+    font-size: 41px;
 
+}
 
+.home-container > .home-hero > .home-slider > .container > .iconfont:hover {
+    background: rgba(0, 0, 0, 0.3);
+    color: #FFFFFF;
+}
 
+.home-container > .home-hero > .home-slider .arrowLeft {
+    left: 234px;
+}
+
+.home-container > .home-hero > .home-slider .arrowRight {
+    right: 0;
+}
+
+/*这块写左侧导航*/
+.home-container > .home-hero > .home-slider > .nav-list {
+    position: absolute;
+    z-index: 50;
+    top: 0;
+    left: 0;
+    padding: 20px 0;
+    background: rgba(0, 0, 0, 0.6);
+
+}
+
+.home-container > .home-hero > .home-slider > .nav-list > .true {
+    display: block;
+    width: 204px;
+    height: 42px;
+    padding-left: 30px;
+    line-height: 42px;
+    color: #FFFFFF;
+}
+
+.home-container > .home-hero > .home-slider > .nav-list > .true:hover {
+    background-color: #ff6700;
+}
+
+.home-container > .home-hero > .home-slider > .nav-list > .true:hover ~ .nav-box {
+    display: block;
+}
+
+.home-container > .home-hero > .home-slider .true > .iconfont {
+    position: relative;
+    right: -169px;
+    top: -42px;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+.home-container > .home-hero > .home-slider > .nav-list > .nav-box {
+    position: absolute;
+    left: 234px;
+    top: 0;
+    display: none;
+    background: #FFFFFF;
+    height: 458px;
+    border: 1px solid #e0e0e0;
+    border-left: 0;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.18);
+overflow: hidden;
+}
+
+.home-container > .home-hero > .home-slider .nav-box > li {
+    position: absolute;
+    height: 41px;
+    width: 225px;
+    padding: 18px 20px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.home-container > .home-hero > .home-slider .nav-box > li img {
+    float: left;
+    width: 40px;
+    height: 40px;
+}
+
+.home-container > .home-hero > .home-slider .nav-box > li span {
+    float: left;
+    margin-left: 10px;
+    line-height: 40px;
+    height: 41px;
+}
+.home-container > .home-hero > .home-slider .nav-box > li span:hover{
+    color: #ff6700;
+}
+.home-container > .home-hero > .home-slider > .nav-list > .nav-box:hover {
+    display: block;
+}
 
 .home-container > .home-hero > .home-sub {
     height: 170px;
