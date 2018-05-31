@@ -1,0 +1,1129 @@
+[
+  {
+    "id": "phone0_L1",
+    "link":"https://item.mi.com/product/10000091.html",
+    "src": "https://i1.mifile.cn/a4/xmad_15248128977759_PBdIo.jpg"
+  },
+
+  {
+    "id": "phone1_R1",
+    "link":"https://item.mi.com/product/10000064.html",
+    "src": "https://i1.mifile.cn/a1/pms_1508850965.67096774!220x220.jpg",
+    "oldPrice": 1000,
+    "newPrice": 1299,
+    "title": "小米5X 4GB+64GB",
+    "desc": "光学变焦双摄，拍人更美",
+    "saleContent": "    减 200 元  ",
+    "saleType": 1
+  },
+  {
+    "id": "phone2_R2",
+    "link":"https://item.mi.com/product/10000070.html",
+    "src": "https://i1.mifile.cn/a1/pms_1509723338.05097112!220x220.jpg",
+    "oldPrice": 4699,
+    "newPrice": 3699,
+    "title": "小米MIX 2 全陶瓷尊享版",
+    "desc": "全面屏2.0，Unibody 全陶瓷",
+    "saleContent": "    享8折  ",
+    "saleType": 1
+  },
+  {
+    "id": "phone3_R3",
+    "link":"https://item.mi.com/product/6874.html",
+    "src": "https://i1.mifile.cn/a1/pms_1508125822.19716710!220x220.jpg",
+    "oldPrice": 599,
+    "newPrice": 569,
+    "title": "红米5A 2GB内存",
+    "desc": "8天超长待机，137g轻巧机身",
+    "saleContent": "    减 30 元  ",
+    "saleType": 1
+  },
+  {
+    "id": "phone4_R4",
+    "link":"https://item.mi.com/product/7357.html",
+    "src": "https://i1.mifile.cn/a1/pms_1512614327.2483640!220x220.jpg",
+    "oldPrice": 949,
+    "newPrice": 999,
+    "title": "红米5 Plus 3GB+32GB",
+    "desc": "全面屏手机，4000mAh大电量",
+    "saleContent": "    减 50 元  ",
+    "saleType": 1
+  },
+  {
+    "id": "phone5_R5",
+    "link":"https://www.mi.com/redmis2/",
+    "src": "https://i1.mifile.cn/a1/pms_1525853341.8312102!220x220.jpg",
+    "oldPrice": 999,
+    "newPrice": "",
+    "title": "红米S2 3GB+32GB",
+    "desc": "前置1600万超大像素智能美拍",
+    "saleContent": "",
+    "saleType": 1
+  },
+  {
+    "id": "phone6_R6",
+    "link":"https://item.mi.com/product/10000069.html",
+    "src": "https://i1.mifile.cn/a1/pms_1511228654.33099308!220x220.jpg",
+    "oldPrice": 1999,
+    "newPrice": 1799,
+    "title": "小米Note 3 4GB+64GB",
+    "desc": "1600万美颜自拍，2倍变焦双摄",
+    "saleContent": "    减 200 元  ",
+    "saleType": 1
+  },
+  {
+    "id": "phone7_R7",
+    "link":"https://item.mi.com/product/10000079.html",
+    "src": "https://i1.mifile.cn/a1/pms_1512612024.50854166!220x220.jpg",
+    "oldPrice": 799,
+    "newPrice": 749,
+    "title": "红米5 2GB+16GB",
+    "desc": "5.7英寸全面屏，前柔光自拍",
+    "saleContent": "    减 50 元  ",
+    "saleType": 1
+  },
+  {
+    "id": "phone8_R8",
+    "link":"https://item.mi.com/product/10000057.html",
+    "src": "https://i1.mifile.cn/a1/pms_1495692033.10494295!220x220.jpg",
+    "oldPrice": 1499,
+    "newPrice": 1699,
+    "title": "小米Max 2 4GB+64GB",
+    "desc": "6.44''大屏，5300mAh 充电宝级的大电量",
+    "saleContent": "    减 200 元  ",
+    "saleType": 1
+  },
+
+  {
+    "id": "phone9_B1",
+    "link":"https://item.mi.com/product/10000091.html",
+    "src": "https://i1.mifile.cn/a4/xmad_15236124748626_jUQzY.jpg"
+  },
+
+
+
+  {
+    "id": "household10_L1",
+    "link":"https://item.mi.com/product/8026.html",
+    "src": "https://i1.mifile.cn/a4/xmad_15266395374048_JnZQo.jpg"
+  },
+  {
+    "id": "household11_L2",
+    "link":"https://item.mi.com/product/4348.html",
+    "src": "https://i1.mifile.cn/a4/xmad_15123939053142_dFlAw.jpg"
+  },
+
+  {
+    "id": "household12_R1",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household13_R2",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household14_R3",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household15_R4",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household16_R5",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household17_R6",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household18_R7",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":false,
+    "msg":"hello"
+  },
+  {
+    "id": "household19_R8",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+
+  {
+    "id": "household20_B1",
+    "link":"https://www.mi.com/p/1995.html",
+    "src": "https://i1.mifile.cn/a4/xmad_15271711154083_rTQVD.jpg"
+  },
+
+
+
+
+  {
+    "id": "intel21_L1",
+    "link":"https://item.mi.com/product/8026.html",
+    "src": "https://i1.mifile.cn/a4/xmad_15232433421155_vCzhJ.jpg"
+  },
+  {
+    "id": "intel22_L2",
+    "link":"https://item.mi.com/product/2774.html",
+    "src": "https://i1.mifile.cn/a4/xmad_14950995035103_fhWtH.jpg"
+  },
+
+  {
+    "id": "intel23_R1",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel24_R2",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel25_R3",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel26_R4",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel27_R5",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel28_R6",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel29_R7",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":false,
+    "msg":"hello"
+  },
+  {
+    "id": "intel30_R8",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+
+  {
+    "id": "intel31_B1",
+    "link":"https://www.mi.com/a/h/5874.html?client_id=180100031058&masid=17409.0370",
+    "src": "https://i1.mifile.cn/a4/xmad_15271714459346_TkFqR.jpg"
+  },
+
+
+
+  {
+    "id": "col32_L1",
+    "link":"https://item.mi.com/product/7463.html",
+    "src": "https://i1.mifile.cn/a4/xmad_15232428438404_xqTdS.jpg"
+  },
+  {
+    "id": "col33_L2",
+    "link":"https://item.mi.com/product/7817.html",
+    "src": "https://i1.mifile.cn/a4/xmad_15227686002753_CSADt.jpg"
+  },
+
+  {
+    "id": "intel23_R1",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel24_R2",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel25_R3",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel26_R4",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel27_R5",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel28_R6",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel29_R7",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":false,
+    "msg":"hello"
+  },
+  {
+    "id": "intel30_R8",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+
+  {
+    "id": "31_B1",
+    "link":"https://item.mi.com/product/4679.html",
+    "src": "https://i1.mifile.cn/a4/xmad_15204798088946_YvzWs.jpg"
+  },
+
+
+
+  {
+    "id": "part43_L1",
+    "link":"https://www.mi.com/bluetooth-collar/",
+    "src": "https://i1.mifile.cn/a4/xmad_15222058002076_sWEmR.jpg"
+  },
+  {
+    "id": "part44_L2",
+    "link":"https://www.mi.com/earphonepro/",
+    "src": "https://i1.mifile.cn/a4/xmad_15183545041251_FTsjL.jpg"
+  },
+
+  {
+    "id": "intel23_R1",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel24_R2",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel25_R3",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel26_R4",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel27_R5",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel28_R6",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel29_R7",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":false,
+    "msg":"hello"
+  },
+  {
+    "id": "intel30_R8",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+
+  {
+    "id": "part53_B1",
+    "link":"https://item.mi.com/1164700014.html?cfrom=search",
+    "src": "https://i1.mifile.cn/a4/xmad_15204800720086_TdBPv.jpg"
+  },
+
+
+
+  {
+    "id": "periphery54_L1",
+    "link":"https://www.mi.com/mj-smartshoes/?cfrom=search",
+    "src": "https://i1.mifile.cn/a4/xmad_15203421336979_UHJuy.jpg"
+  },
+  {
+    "id": "periphery55_L2",
+    "link":"https://item.mi.com/1155100012.html",
+    "src": "https://i1.mifile.cn/a4/xmad_15162458631619_LTmcI.jpg"
+  },
+
+  {
+    "id": "intel23_R1",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel24_R2",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel25_R3",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel26_R4",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel27_R5",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel28_R6",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "intel29_R7",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":false,
+    "msg":"hello"
+  },
+  {
+    "id": "intel30_R8",
+    "link":"https://www.mi.com/kettle/",
+    "src": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+    "oldPrice": 199,
+    "newPrice": 189,
+    "title": "米家恒温电水壶",
+    "desc": "水温智能控制，304 不锈钢内胆",
+    "saleContent": "    减 10 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+
+  {
+    "id": "part53_B1",
+    "link":"https://www.mi.com/electric-toothbrush/",
+    "src": "https://i1.mifile.cn/a4/xmad_15204795762271_ZwaxE.jpg"
+  },
+
+
+
+
+  {
+    "id": "recommend65_1",
+    "link":"https://item.mi.com/1180900015.html",
+    "src": "https://i1.mifile.cn/a1/pms_1519609633.75918897!140x140.jpg",
+    "price": 699,
+    "title": "红米5A 全网通版 3GB内存 32GB",
+    "love":3661
+  },
+  {
+    "id": "recommend66_1",
+    "link":"https://item.mi.com/1180900015.html",
+    "src": "https://i1.mifile.cn/a1/pms_1519609633.75918897!140x140.jpg",
+    "price": 699,
+    "title": "红米5A 全网通版 3GB内存 32GB",
+    "love":3661
+  },
+  {
+    "id": "recommend67_1",
+    "link":"https://item.mi.com/1180900015.html",
+    "src": "https://i1.mifile.cn/a1/pms_1519609633.75918897!140x140.jpg",
+    "price": 699,
+    "title": "红米5A 全网通版 3GB内存 32GB",
+    "love":3661
+  },
+  {
+    "id": "recommend68_1",
+    "link":"https://item.mi.com/1180900015.html",
+    "src": "https://i1.mifile.cn/a1/pms_1519609633.75918897!140x140.jpg",
+    "price": 699,
+    "title": "红米5A 全网通版 3GB内存 32GB",
+    "love":3661
+  },
+  {
+    "id": "recommend69_1",
+    "link":"https://item.mi.com/1180900015.html",
+    "src": "https://i1.mifile.cn/a1/pms_1519609633.75918897!140x140.jpg",
+    "price": 699,
+    "title": "红米5A 全网通版 3GB内存 32GB",
+    "love":3661
+  },
+
+
+
+  {
+    "id": "hotProduct70_1",
+    "picLink":"https://www.mi.com/dianfanbao/",
+    "descLink":"https://order.mi.com/comment/commentDetail/comment_id/133452803",
+    "src": "https://i1.mifile.cn/a4/54e35fdd-bc68-4a89-bad7-c9c3bb2fc6fe",
+    "price": 999,
+    "title": "红米5A 全网通版 3GB内存 32GB",
+    "desc": "包装很让人感动，式样也很可爱，做出的饭全家人都爱吃，超爱五星！手机控制还是不太熟练，最主要是没有连接...",
+    "evaluate":"来自于 HZG 的评价"
+  },
+  {
+    "id": "hotProduct71_2",
+    "picLink":"https://www.mi.com/dianfanbao/",
+    "descLink":"https://order.mi.com/comment/commentDetail/comment_id/133452803",
+    "src": "https://i1.mifile.cn/a4/54e35fdd-bc68-4a89-bad7-c9c3bb2fc6fe",
+    "price": 999,
+    "title": "红米5A 全网通版 3GB内存 32GB",
+    "desc": "包装很让人感动，式样也很可爱，做出的饭全家人都爱吃，超爱五星！手机控制还是不太熟练，最主要是没有连接...",
+    "evaluate":"来自于 HZG 的评价"
+  },
+  {
+    "id": "hotProduct72_3",
+    "picLink":"https://www.mi.com/dianfanbao/",
+    "descLink":"https://order.mi.com/comment/commentDetail/comment_id/133452803",
+    "src": "https://i1.mifile.cn/a4/54e35fdd-bc68-4a89-bad7-c9c3bb2fc6fe",
+    "price": 999,
+    "title": "红米5A 全网通版 3GB内存 32GB",
+    "desc": "包装很让人感动，式样也很可爱，做出的饭全家人都爱吃，超爱五星！手机控制还是不太熟练，最主要是没有连接...",
+    "evaluate":"来自于 HZG 的评价"
+  },
+  {
+    "id": "hotProduct73_4",
+    "picLink":"https://www.mi.com/dianfanbao/",
+    "descLink":"https://order.mi.com/comment/commentDetail/comment_id/133452803",
+    "src": "https://i1.mifile.cn/a4/54e35fdd-bc68-4a89-bad7-c9c3bb2fc6fe",
+    "price": 999,
+    "title": "红米5A 全网通版 3GB内存 32GB",
+    "desc": "包装很让人感动，式样也很可爱，做出的饭全家人都爱吃，超爱五星！手机控制还是不太熟练，最主要是没有连接...",
+    "evaluate":"来自于 HZG 的评价"
+  },
+
+
+  {
+    "id": "household74_R1_1",
+    "link":"https://www.mi.com/mitv4A/43y/",
+    "src": "https://i1.mifile.cn/a1/pms_1524883847.49276938!220x220.jpg",
+    "oldPrice": 1699,
+    "newPrice": 1599,
+    "title": "小米电视4A 43英寸青春版",
+    "desc": "全高清屏 / 人工智能语音",
+    "saleContent": "    减 100 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household75_R1_2",
+    "link":"https://www.mi.com/mitv4A/43y/",
+    "src": "https://i1.mifile.cn/a1/pms_1524883847.49276938!220x220.jpg",
+    "oldPrice": 1699,
+    "newPrice": 1599,
+    "title": "小米电视4A 43英寸青春版",
+    "desc": "全高清屏 / 人工智能语音",
+    "saleContent": "    减 100 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household76_R1_3",
+    "link":"https://www.mi.com/mitv4A/43y/",
+    "src": "https://i1.mifile.cn/a1/pms_1524883847.49276938!220x220.jpg",
+    "oldPrice": 1699,
+    "newPrice": 1599,
+    "title": "小米电视4A 43英寸青春版",
+    "desc": "全高清屏 / 人工智能语音",
+    "saleContent": "    减 100 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household77_R1_4",
+    "link":"https://www.mi.com/mitv4A/43y/",
+    "src": "https://i1.mifile.cn/a1/pms_1524883847.49276938!220x220.jpg",
+    "oldPrice": 1699,
+    "newPrice": 1599,
+    "title": "小米电视4A 43英寸青春版",
+    "desc": "全高清屏 / 人工智能语音",
+    "saleContent": "    减 100 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household78_R1_5",
+    "link":"https://www.mi.com/mitv4A/43y/",
+    "src": "https://i1.mifile.cn/a1/pms_1524883847.49276938!220x220.jpg",
+    "oldPrice": 1699,
+    "newPrice": 1599,
+    "title": "小米电视4A 43英寸青春版",
+    "desc": "全高清屏 / 人工智能语音",
+    "saleContent": "    减 100 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household79_R1_6",
+    "link":"https://www.mi.com/mitv4A/43y/",
+    "src": "https://i1.mifile.cn/a1/pms_1524883847.49276938!220x220.jpg",
+    "oldPrice": 1699,
+    "newPrice": 1599,
+    "title": "小米电视4A 43英寸青春版",
+    "desc": "全高清屏 / 人工智能语音",
+    "saleContent": "    减 100 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household80_R1_7",
+    "link":"https://www.mi.com/mitv4A/43y/",
+    "src": "https://i1.mifile.cn/a1/pms_1524883847.49276938!220x220.jpg",
+    "oldPrice": 1699,
+    "newPrice": 1599,
+    "title": "小米电视4A 43英寸青春版",
+    "desc": "全高清屏 / 人工智能语音",
+    "saleContent": "    减 100 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household81_R1_8",
+    "link":"https://www.mi.com/mitv4A/43y/",
+    "src": "https://i1.mifile.cn/a1/pms_1524883847.49276938!220x220.jpg",
+    "oldPrice": 1699,
+    "newPrice": 1599,
+    "title": "小米电视4A 43英寸青春版",
+    "desc": "全高清屏 / 人工智能语音",
+    "saleContent": "    减 100 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+
+
+  {
+    "id": "household82_R2_1",
+    "link":"https://www.mi.com/mitv4c/50/",
+    "src": "https://i1.mifile.cn/a1/pms_1522318330.86967810!220x220.jpg",
+    "oldPrice": 2199,
+    "newPrice": 1999,
+    "title": "小米电视4A 43英寸青春版",
+    "desc": "4K HDR / 人工智能语音",
+    "saleContent": "    减 200 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household83_R2_2",
+    "link":"https://www.mi.com/mitv4c/50/",
+    "src": "https://i1.mifile.cn/a1/pms_1522318330.86967810!220x220.jpg",
+    "oldPrice": 2199,
+    "newPrice": 1999,
+    "title": "小米电视4A 43英寸青春版",
+    "desc": "4K HDR / 人工智能语音",
+    "saleContent": "    减 200 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household84_R2_3",
+    "link":"https://www.mi.com/mitv4c/50/",
+    "src": "https://i1.mifile.cn/a1/pms_1522318330.86967810!220x220.jpg",
+    "oldPrice": 2199,
+    "newPrice": 1999,
+    "title": "小米电视4A 43英寸青春版",
+    "desc": "4K HDR / 人工智能语音",
+    "saleContent": "    减 200 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household85_R2_4",
+    "link":"https://www.mi.com/mitv4c/50/",
+    "src": "https://i1.mifile.cn/a1/pms_1522318330.86967810!220x220.jpg",
+    "oldPrice": 2199,
+    "newPrice": 1999,
+    "title": "小米电视4A 43英寸青春版",
+    "desc": "4K HDR / 人工智能语音",
+    "saleContent": "    减 200 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household86_R2_5",
+    "link":"https://www.mi.com/mitv4c/50/",
+    "src": "https://i1.mifile.cn/a1/pms_1522318330.86967810!220x220.jpg",
+    "oldPrice": 2199,
+    "newPrice": 1999,
+    "title": "小米电视4A 43英寸青春版",
+    "desc": "4K HDR / 人工智能语音",
+    "saleContent": "    减 200 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household87_R2_6",
+    "link":"https://www.mi.com/mitv4c/50/",
+    "src": "https://i1.mifile.cn/a1/pms_1522318330.86967810!220x220.jpg",
+    "oldPrice": 2199,
+    "newPrice": 1999,
+    "title": "小米电视4A 43英寸青春版",
+    "desc": "4K HDR / 人工智能语音",
+    "saleContent": "    减 200 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household88_R2_7",
+    "link":"https://www.mi.com/mitv4c/50/",
+    "src": "https://i1.mifile.cn/a1/pms_1522318330.86967810!220x220.jpg",
+    "oldPrice": 2199,
+    "newPrice": 1999,
+    "title": "小米电视4A 43英寸青春版",
+    "desc": "4K HDR / 人工智能语音",
+    "saleContent": "    减 200 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household89_R2_8",
+    "link":"https://www.mi.com/mitv4c/50/",
+    "src": "https://i1.mifile.cn/a1/pms_1522318330.86967810!220x220.jpg",
+    "oldPrice": 2199,
+    "newPrice": 1999,
+    "title": "小米电视4A 43英寸青春版",
+    "desc": "4K HDR / 人工智能语音",
+    "saleContent": "    减 200 元  ",
+    "saleType": 1,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+
+
+  {
+    "id": "household90_R3_1",
+    "link":"https://item.mi.com/1181800008.html",
+    "src": "https://i1.mifile.cn/a4/xmad_15265254948451_tVxWo.jpg",
+    "oldPrice": "",
+    "newPrice": 399,
+    "title": "米家LED吸顶灯",
+    "desc": "用光线，还原理想生活",
+    "saleContent": "新品",
+    "saleType": 0,
+    "isBottomHover":false,
+    "msg":"hello"
+  },
+  {
+    "id": "household91_R3_2",
+    "link":"https://item.mi.com/1181800008.html",
+    "src": "https://i1.mifile.cn/a4/xmad_15265254948451_tVxWo.jpg",
+    "oldPrice": "",
+    "newPrice": 399,
+    "title": "米家LED吸顶灯",
+    "desc": "用光线，还原理想生活",
+    "saleContent": "新品",
+    "saleType": 0,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household92_R3_3",
+    "link":"https://item.mi.com/1181800008.html",
+    "src": "https://i1.mifile.cn/a4/xmad_15265254948451_tVxWo.jpg",
+    "oldPrice": "",
+    "newPrice": 399,
+    "title": "米家LED吸顶灯",
+    "desc": "用光线，还原理想生活",
+    "saleContent": "新品",
+    "saleType": 0,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household93_R3_4",
+    "link":"https://item.mi.com/1181800008.html",
+    "src": "https://i1.mifile.cn/a4/xmad_15265254948451_tVxWo.jpg",
+    "oldPrice": "",
+    "newPrice": 399,
+    "title": "米家LED吸顶灯",
+    "desc": "用光线，还原理想生活",
+    "saleContent": "新品",
+    "saleType": 0,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household94_R3_5",
+    "link":"https://item.mi.com/1181800008.html",
+    "src": "https://i1.mifile.cn/a4/xmad_15265254948451_tVxWo.jpg",
+    "oldPrice": "",
+    "newPrice": 399,
+    "title": "米家LED吸顶灯",
+    "desc": "用光线，还原理想生活",
+    "saleContent": "新品",
+    "saleType": 0,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household95_R3_6",
+    "link":"https://item.mi.com/1181800008.html",
+    "src": "https://i1.mifile.cn/a4/xmad_15265254948451_tVxWo.jpg",
+    "oldPrice": "",
+    "newPrice": 399,
+    "title": "米家LED吸顶灯",
+    "desc": "用光线，还原理想生活",
+    "saleContent": "新品",
+    "saleType": 0,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household96_R3_7",
+    "link":"https://item.mi.com/1181800008.html",
+    "src": "https://i1.mifile.cn/a4/xmad_15265254948451_tVxWo.jpg",
+    "oldPrice": "",
+    "newPrice": 399,
+    "title": "米家LED吸顶灯",
+    "desc": "用光线，还原理想生活",
+    "saleContent": "新品",
+    "saleType": 0,
+    "isBottomHover":true,
+    "msg":"hello"
+  },
+  {
+    "id": "household97_R3_8",
+    "link":"https://item.mi.com/1181800008.html",
+    "src": "https://i1.mifile.cn/a4/xmad_15265254948451_tVxWo.jpg",
+    "oldPrice": "",
+    "newPrice": 399,
+    "title": "米家LED吸顶灯",
+    "desc": "用光线，还原理想生活",
+    "saleContent": "新品",
+    "saleType": 0,
+    "isBottomHover":true,
+    "msg":"hello"
+  }
+
+]
